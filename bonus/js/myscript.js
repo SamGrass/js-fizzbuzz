@@ -14,7 +14,7 @@ for(let i = 1; i <= 100; i++) {
                  </div>`; 
         
     } 
-     // per i multipli di 3 stampi “Fizz” al posto del numero 
+    
     else if (i % 3 === 0) {
         box = `<div class="box bg-green">
                     <div>Fizz</div>
