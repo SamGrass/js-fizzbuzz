@@ -31,7 +31,7 @@ h1 {
 
 
 /* regole box */
-.box {
+.card {
     display: flex;
     align-items: center;
     justify-content: center;
